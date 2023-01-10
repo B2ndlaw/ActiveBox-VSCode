@@ -49,8 +49,6 @@ event.preventDefault();
 
 nav.toggleClass("show");
 
-
-
 })
 
 // Reviews https://kenwheeler.github.io/slick
